@@ -1,0 +1,46 @@
+/* Header section */
+#tourbd1{
+    color:white;
+   font-size: 1.7vw;
+   justify-content: space-between;
+   position: relative;
+}
+
+
+
+/* contact us */
+
+#heading_contact{
+    margin-top: 45px;
+    color: #3cbada;
+}
+
+#contact{
+    background-color: black;
+}
+
+#address2:hover{
+    background-color:  #e6c298;
+}
+
+#address3:hover{
+    background-color:  #8ee4f0;
+}
+
+
+#address1:hover{
+    background-color:  #e5bbf0;
+}
+
+#address4:hover{
+    background-color:  #e7f89b;
+}
+
+
+/* Start footer */
+#footer{
+    background-color:black;
+}
+.footer a{
+    color: cyan;
+}

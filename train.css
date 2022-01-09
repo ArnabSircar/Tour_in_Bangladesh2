@@ -1,0 +1,296 @@
+/* Header section */
+#tourbd1{
+    color:white;
+   font-size: 1.7vw;
+   justify-content: space-between;
+   position: relative;
+}
+
+
+
+
+
+
+/* special offer */
+
+#headerOfSpecialoffers{
+    padding-top: 70px;
+    color: white;
+}
+
+#headerOfSpecialoffers2{
+    color: #fff;
+    font-size: larger;
+}
+
+/* .services {
+    width: 100%;
+    height: 150vh;
+    background: url(assets/image2/Special_offer_background/sa3.jpg) top center no-repeat;
+    background-size: cover;
+  } */
+
+
+  /* @media only screen and (max-width: 1000px){
+    .services {
+        width: 100%;
+        height: 230vh;
+        background: url(assets/image2/Special_offer_background/sa3.jpg) top center no-repeat;
+        background-size: cover;
+      }
+  }
+
+
+
+  @media only screen and (max-width: 720px){
+    .services {
+        width: 100%;
+        height: 300vh;
+        background: url(assets/image2/Special_offer_background/sa3.jpg) top center no-repeat;
+        background-size: cover;
+      }
+  } */
+
+
+
+#bkicon2
+{
+   height: 100%;
+   width: 100%;
+   /* background-color:rgb(26, 153, 15); */
+   filter: contrast(100%);
+   
+   align-items: center;
+   margin-left: 0px;
+   margin-bottom: 0px; 
+   border-radius: 0px;
+
+  
+}
+
+
+#blue1:hover{
+    /* box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+   transform: scale(1); */
+   padding-left: 0;
+   padding-top: 0;
+   padding-right: 0;
+   padding-bottom:0 ;
+
+   transform: scale(1.1);
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+   /* background-color: rgb(0, 255, 213); */
+}
+
+#blue2:hover{
+    /* box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+   transform: scale(1); */
+   padding-left: 0;
+   padding-top: 0;
+   padding-right: 0;
+   padding-bottom:0 ;
+
+   transform: scale(1.1);
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+   /* background-color: rgb(0, 255, 213); */
+}
+
+#blue3:hover{
+    /* box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+   transform: scale(1); */
+   padding-left: 0;
+   padding-top: 0;
+   padding-right: 0;
+   padding-bottom:0 ;
+
+   transform: scale(1.1);
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+   /* background-color: rgb(0, 255, 213); */
+}
+
+
+
+#blue4:hover{
+    /* box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+   transform: scale(1); */
+   padding-left: 0;
+   padding-top: 0;
+   padding-right: 0;
+   padding-bottom:0 ;
+
+   transform: scale(1.1);
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+   /* background-color: rgb(0, 255, 213); */
+}
+
+
+
+#blue5:hover{
+    /* box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+   transform: scale(1); */
+   padding-left: 0;
+   padding-top: 0;
+   padding-right: 0;
+   padding-bottom:0 ;
+
+   transform: scale(1.1);
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+   /* background-color: rgb(0, 255, 213); */
+}
+
+#blue6:hover{
+    /* box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+   transform: scale(1); */
+   padding-left: 0;
+   padding-top: 0;
+   padding-right: 0;
+   padding-bottom:0 ;
+
+   transform: scale(1.1);
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+   /* background-color: rgb(0, 255, 213); */
+}
+
+
+
+#blue{
+   padding-left: 0;
+   padding-top: 0;
+   padding-right: 0;
+   padding-bottom:0 ;
+}
+
+#services{
+    background-color:black ;
+}
+
+#nagad1{
+    height:90px;
+   width: 140px;
+   background-color:rgb(26, 153, 15);
+   filter: contrast(100%);
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 0px; 
+   border-radius: 3px;
+  margin-bottom: 5px;
+}
+
+
+@media only screen and (max-width: 1000px){
+
+
+    #nagad1{
+        height:90px;
+        width: 140px;
+       display: block;
+       align-items: center;
+       margin-left: 70px;
+       margin-bottom: 0px; 
+       border-radius: 3px;
+      margin-bottom: 5px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+#rocket1{
+    height: 100px;
+   width: 100px;
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 0px; 
+   border-radius: 3px;
+}
+
+
+#tcash1{
+    height: 90px;
+   width: 90px;
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 5px; 
+   border-radius: 3px;
+   
+}
+
+
+#fastcash1{
+    height: 100px;
+   width: 100px;
+   
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 0px; 
+   border-radius: 3px;
+}
+
+#bracbank1{
+    height: 100px;
+   width: 100px;
+   
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 0px; 
+   border-radius: 3px;
+}
+
+#bankasia1{
+    height: 100px;
+    width: 100px;
+    
+    display: block;
+    align-items: center;
+    margin-left: 120px;
+    margin-bottom: 0px; 
+    border-radius: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Start footer */
+#footer{
+    background-color:black
+}
+.footer a{
+    color: cyan;
+}

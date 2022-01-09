@@ -1,0 +1,147 @@
+/* Header section */
+#tourbd1{
+    color:white;
+   font-size: 1.7vw;
+   justify-content: space-between;
+   position: relative;
+}
+
+
+
+
+
+/* login css */
+
+
+  h1, h2, h3, h4, h5, h6, a {
+	margin:0; padding:0;
+  }
+  h6{
+	  padding-left: 70px;
+  }
+  .login {
+	margin:0 auto;
+	max-width:500px;
+	padding-top: 15vh;
+  }
+  .login-header {
+	color:rgb(5, 1, 255);
+	text-align:center;
+	font-size:300%;
+	padding-top: 11vh;
+  }
+  /* .login-header h1 {
+	 text-shadow: 0px 5px 15px #000; */
+  
+  .login-form {
+	border:.5px solid #282b35;
+	background:#282b35;
+	border-radius:10px;
+	box-shadow:0px 0px 10px #000;
+	opacity: 0.75;
+	
+  }
+  .login-form h3 {
+	text-align:left;
+	margin-left:40px;
+	color:rgb(255, 255, 255);
+  }
+  .login-form {
+	box-sizing:border-box;
+	padding-top:15px;
+	  padding-bottom:10%;
+	margin:5% auto;
+	text-align:center;
+  }
+  .login input[type="text"],
+  .login input[type="password"] {
+	max-width:400px;
+	  width: 80%;
+	line-height:3em;
+	font-family: 'Ubuntu', sans-serif;
+	margin:1em 2em;
+	border-radius:5px;
+	border:2px solid #f2f2f2;
+	outline:none;
+	padding-left:10px;
+  }
+  .login-form input[type="button"] {
+	height:30px;
+	width:100px;
+	background:rgb(255, 190, 12);
+	border:1px solid #f2f2f2;
+	border-radius:20px;
+	color: rgb(0, 0, 0);
+	text-transform:uppercase;
+	font-family: 'Ubuntu', sans-serif;
+	cursor:pointer;
+  }
+
+
+  .login-form input[type="button"]:hover{
+	background:rgb(255, 208, 0);
+  }
+
+
+
+  .sign-up{
+	color:cyan;
+	margin-left:-70%;
+	cursor:pointer;
+	text-decoration:underline;
+  }
+  .no-access {
+	color:#efbff5;
+	margin:20px 0px 20px -57%;
+	text-decoration:underline;
+	cursor:pointer;
+  }
+  .try-again {
+	color:#f2f2f2;
+	text-decoration:underline;
+	cursor:pointer;
+  }
+  
+  /*Media Querie*/
+  @media only screen and (min-width : 150px) and (max-width : 530px){
+	.login-form h3 {
+	  text-align:center;
+	  margin:0;
+	}
+	.sign-up, .no-access {
+	  margin:10px 0;
+	}
+	.login-button {
+	  margin-bottom:10px;
+	}
+  }
+
+
+  #mylogin1 {
+	width: 100%;
+  	height: 100vh;
+	 /* background:url('http://cdn.wallpapersafari.com/13/6/Mpsg2b.jpg') top center no-repeat ;  */
+	background-size: cover;
+	font-family: 'Ubuntu', sans-serif;
+	background:url(assets/image2/login_background/l3.jpg) top center no-repeat;
+	/* background-color: black; */
+	 
+  }
+
+
+  #backlogin2{
+      padding-left:5000vh ;
+      color: cyan;
+   
+  }
+
+
+
+  
+/* Start footer */
+#footer{
+    background-color:black
+}
+.footer a{
+    color: cyan;
+}

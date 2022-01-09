@@ -1,0 +1,335 @@
+/* Header section */
+#tourbd1{
+    color:white;
+   font-size: 1.7vw;
+   justify-content: space-between;
+   position: relative;
+}
+
+
+#transport{
+    margin-left: 2vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+
+
+
+/* Start of form */
+
+#search_background{
+    width: 100%;
+  	height: 100vh;
+	 /* background:url('http://cdn.wallpapersafari.com/13/6/Mpsg2b.jpg') top center no-repeat ;  */
+	background-size: cover;
+	font-family: 'Ubuntu', sans-serif;
+	/* background:url(assets/image2/login_background/l3.jpg) top center no-repeat; */
+    background: url(assets/image2/login_background/l3.jpg) top center no-repeat;
+   
+
+}
+.well-searchbox {
+  min-height: 20px;
+  min-width: 400px;
+  padding: 19px;
+  position: absolute;
+  z-index: 80;
+  top: 90px;
+  right: 100px;
+  background: rgba(0, 0, 0, 0.6);
+  margin-bottom: 20px;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+    margin-top: 20vh;
+    margin-right: 60vh;
+ 
+  
+  
+    
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+
+
+}
+
+.well-searchbox label {
+    color: #fff;
+}
+
+ @media only screen and (max-width: 720px)
+{
+    .well-searchbox{
+    width: 100%;
+        height: 230vh;
+        background: url(assets/image2/login_background/l3.jpg) top center no-repeat;
+        background-size: cover;
+    }
+    
+} 
+
+@media only screen and (max-width: 300px)
+{
+    .well-searchbox{
+        width: 100%;
+        height: 230vh;
+        background: url(assets/image2/login_background/l3.jpg) top center no-repeat;
+        background-size: cover;
+    }
+    
+} 
+
+
+#from{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+#to{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+
+#place{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+#from2{
+    margin-top: 3vh;
+    
+}
+
+#to2{
+    margin-top: 3vh;
+    
+}
+
+
+#place2{
+    margin-top: 3vh;
+   
+}
+
+#space{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+#prebutton{
+    padding-right: 0;
+    margin-left: 0;
+}
+
+
+
+
+
+
+
+/* special offer */
+
+#headerOfSpecialoffers{
+    padding-top: 70px;
+    color: white;
+}
+
+#headerOfSpecialoffers2{
+    color: #fff;
+    font-size: larger;
+}
+
+/* .services {
+    width: 100%;
+    height: 150vh;
+    background: url(assets/image2/Special_offer_background/sa3.jpg) top center no-repeat;
+    background-size: cover;
+  } */
+
+
+  /* @media only screen and (max-width: 1000px){
+    .services {
+        width: 100%;
+        height: 230vh;
+        background: url(assets/image2/Special_offer_background/sa3.jpg) top center no-repeat;
+        background-size: cover;
+      }
+  }
+
+
+
+  @media only screen and (max-width: 720px){
+    .services {
+        width: 100%;
+        height: 300vh;
+        background: url(assets/image2/Special_offer_background/sa3.jpg) top center no-repeat;
+        background-size: cover;
+      }
+  } */
+
+
+
+#bkicon2
+{
+   height: 100%;
+   width: 100%;
+   /* background-color:rgb(26, 153, 15); */
+   filter: contrast(100%);
+   
+   align-items: center;
+   margin-left: 0px;
+   margin-bottom: 0px; 
+   border-radius: 0px;
+}
+
+
+#blue{
+   padding-left: 0;
+   padding-top: 0;
+   padding-right: 0;
+   padding-bottom:0 ;
+}
+
+#services{
+    background-color:black ;
+}
+
+#nagad1{
+    height:90px;
+   width: 140px;
+   background-color:rgb(26, 153, 15);
+   filter: contrast(100%);
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 0px; 
+   border-radius: 3px;
+  margin-bottom: 5px;
+}
+
+
+@media only screen and (max-width: 1000px){
+
+
+    #nagad1{
+        height:90px;
+        width: 140px;
+       display: block;
+       align-items: center;
+       margin-left: 70px;
+       margin-bottom: 0px; 
+       border-radius: 3px;
+      margin-bottom: 5px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+#rocket1{
+    height: 100px;
+   width: 100px;
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 0px; 
+   border-radius: 3px;
+}
+
+
+#tcash1{
+    height: 90px;
+   width: 90px;
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 5px; 
+   border-radius: 3px;
+   
+}
+
+
+#fastcash1{
+    height: 100px;
+   width: 100px;
+   
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 0px; 
+   border-radius: 3px;
+}
+
+#bracbank1{
+    height: 100px;
+   width: 100px;
+   
+   display: block;
+   align-items: center;
+   margin-left: 120px;
+   margin-bottom: 0px; 
+   border-radius: 3px;
+}
+
+#bankasia1{
+    height: 100px;
+    width: 100px;
+    
+    display: block;
+    align-items: center;
+    margin-left: 120px;
+    margin-bottom: 0px; 
+    border-radius: 3px;
+}
+
+
+
+
+
+#pic{
+    background-color: black;
+}
+#pic1{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+    background-color:black;
+}
+.footer a{
+    color: cyan;
+}

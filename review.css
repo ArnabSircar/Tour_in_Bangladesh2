@@ -1,0 +1,60 @@
+
+/* Header section */
+#tourbd1{
+    color:white;
+   font-size: 1.7vw;
+   justify-content: space-between;
+   position: relative;
+}
+
+
+
+
+/* start of review */
+#testimonials{
+    background-color: black;
+}
+
+#secheader{
+    margin-top: 6%;
+}
+
+#sec2{
+    color: #fff;
+}
+
+#sec3{
+    color: #fff;
+}
+
+#col1:hover{
+    background-color: rgb(0, 238, 255);
+}
+
+#col2:hover{
+    background-color: rgb(182, 115, 221);
+}
+
+#col3:hover{
+    background-color: rgb(135, 221, 128);
+}
+
+#col4:hover{
+    background-color: rgb(240, 132, 132);
+}
+#col5:hover{
+    background-color: rgb(128, 228, 181);
+}
+
+
+
+
+
+
+/* Start footer */
+#footer{
+    background-color:black
+}
+.footer a{
+    color: cyan;
+}
