@@ -38,11 +38,7 @@ function show2()
             else
             {
                 
-                if(k==1){
-                 alert("Not exists");
-                }
-                 
-                 k=0;
+                
             }
 
 
